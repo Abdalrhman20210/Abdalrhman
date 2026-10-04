@@ -103,7 +103,7 @@ she gently places dates on the grave and touches the stone with her fingertips, 
 **02-06** · 5s · لقطة قريبة جداً
 - IMAGE:
 ```
-extreme close-up of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand's face, eyes full of tears, looking down at the grave, soft dawn light. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+extreme close-up of the face of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand, eyes full of tears, looking down at the grave, soft dawn light. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -147,7 +147,7 @@ the egg glows brighter and dimmer like a slow heartbeat, heat shimmer distorting
 **03-04** · 5s · لقطة قريبة جداً
 - IMAGE:
 ```
-close-up of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand's hand reaching toward a large crimson egg the size of a small melon, surface like cooled lava with thin glowing orange cracks, pulsing with a heartbeat-like inner light, faint heat shimmer around it, her fingers trembling. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+close-up of a trembling hand reaching toward a large crimson egg the size of a small melon, surface like cooled lava with thin glowing orange cracks, pulsing with a heartbeat-like inner light, faint heat shimmer around it, the hand belongs to a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -167,7 +167,7 @@ she wraps the egg and pulls it to her chest, wincing from the heat but holding o
 **03-06** · 5s · لقطة قريبة جداً
 - IMAGE:
 ```
-a large crimson egg the size of a small melon, surface like cooled lava with thin glowing orange cracks, pulsing with a heartbeat-like inner light, faint heat shimmer around it held against a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand's chest wrapped in cloth, its glow intensifying warmly. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+a large crimson egg the size of a small melon, surface like cooled lava with thin glowing orange cracks, pulsing with a heartbeat-like inner light, faint heat shimmer around it wrapped in a maroon cloth, its glow intensifying warmly, held against the chest of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -285,7 +285,7 @@ her hand moves slowly closer, the chick looks at her hand, then hops onto her pa
 **05-06** · 6s · لقطة قريبة جداً
 - IMAGE:
 ```
-a tiny baby phoenix chick the size of a pigeon, fluffy crimson-orange down feathers glowing softly like embers, oversized round amber eyes with long lashes, a tiny flickering flame crest on its head, small stubby wings, cute and fragile nestled in a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand's cupped palms, its glow soft and warm, no burns, her face crying and smiling at the same time in background. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+a tiny baby phoenix chick the size of a pigeon, fluffy crimson-orange down feathers glowing softly like embers, oversized round amber eyes with long lashes, a tiny flickering flame crest on its head, small stubby wings, cute and fragile nestled in cupped palms wrapped in beige cloth, its glow soft and warm, no burns; in the background the face of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand, crying and smiling at the same time. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -433,7 +433,7 @@ the girl lifts her pinky finger, the woman softens and hooks her pinky with hers
 **07-06** · 5s · لقطة قريبة
 - IMAGE:
 ```
-a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression resting its head under a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist's small hand, she smiles with a gap-toothed grin. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression resting its head under the small hand of a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist, she smiles with a gap-toothed grin. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -595,7 +595,7 @@ he bows lower and whispers, the prince leans forward
 **10-03** · 6s · لقطة قريبة جداً
 - IMAGE:
 ```
-extreme close-up of a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger's cold grey eye with a gold nugget reflected in the pupil. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+extreme close-up of one cold grey eye with a gold nugget reflected in the pupil, the eye of a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -733,7 +733,7 @@ wind blowing its fiery feathers, it lowers its head in sorrow
 **12-04** · 6s · لقطة قريبة جداً
 - IMAGE:
 ```
-extreme close-up of a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters's amber eye with a tear made of liquid fire. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+extreme close-up of the amber eye of a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters, a tear made of liquid fire forming. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -831,7 +831,7 @@ gold spreading across the ground, he throws his head back laughing
 **14-01** · 5s · لقطة قريبة جداً
 - IMAGE:
 ```
-extreme close-up of a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters's amber eye inside an iron cage. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+extreme close-up of the amber eye of a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters inside an iron cage. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```

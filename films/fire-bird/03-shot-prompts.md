@@ -54,7 +54,7 @@
 - MOTION: she gently places dates on the grave and touches the stone with her fingertips, wind blows sand across the grave
 
 **02-06** · 5s · لقطة قريبة جداً
-- IMAGE: extreme close-up of [HALIMA]'s face, eyes full of tears, looking down at the grave, soft dawn light
+- IMAGE: extreme close-up of the face of [HALIMA], eyes full of tears, looking down at the grave, soft dawn light
 - MOTION: a single tear rolls down her cheek, she closes her eyes slowly
 
 ---
@@ -74,7 +74,7 @@
 - MOTION: the egg glows brighter and dimmer like a slow heartbeat, heat shimmer distorting the air
 
 **03-04** · 5s · لقطة قريبة جداً
-- IMAGE: close-up of [HALIMA]'s hand reaching toward [EGG], her fingers trembling
+- IMAGE: close-up of a trembling hand reaching toward [EGG], the hand belongs to [HALIMA]
 - MOTION: her fingers touch the egg, then pull back sharply in pain, a wisp of steam rises from her fingertips
 
 **03-05** · 6s · لقطة متوسطة
@@ -82,7 +82,7 @@
 - MOTION: she wraps the egg and pulls it to her chest, wincing from the heat but holding on
 
 **03-06** · 5s · لقطة قريبة جداً
-- IMAGE: [EGG] held against [HALIMA]'s chest wrapped in cloth, its glow intensifying warmly
+- IMAGE: [EGG] wrapped in a maroon cloth, its glow intensifying warmly, held against the chest of [HALIMA]
 - MOTION: the egg's light pulses in rhythm, growing brighter as if hearing her heartbeat
 
 ---
@@ -134,7 +134,7 @@
 - MOTION: her hand moves slowly closer, the chick looks at her hand, then hops onto her palm
 
 **05-06** · 6s · لقطة قريبة جداً
-- IMAGE: [JAMR-CHICK] nestled in [HALIMA]'s cupped palms, its glow soft and warm, no burns, her face crying and smiling at the same time in background
+- IMAGE: [JAMR-CHICK] nestled in cupped palms wrapped in beige cloth, its glow soft and warm, no burns; in the background the face of [HALIMA], crying and smiling at the same time
 - MOTION: the chick buries its head in her palm and chirps, she laughs through tears
 
 ---
@@ -198,7 +198,7 @@
 - MOTION: [SALMA] lifts her pinky finger, [HALIMA] softens and hooks her pinky with hers
 
 **07-06** · 5s · لقطة قريبة
-- IMAGE: [JAMR-YOUNG] resting its head under [SALMA]'s small hand, she smiles with a gap-toothed grin
+- IMAGE: [JAMR-YOUNG] resting its head under the small hand of [SALMA], she smiles with a gap-toothed grin
 - MOTION: the bird nuzzles into her hand, she laughs in wonder
 
 ---
@@ -270,7 +270,7 @@
 - MOTION: he bows lower and whispers, [MUHALLAB] leans forward
 
 **10-03** · 6s · لقطة قريبة جداً
-- IMAGE: extreme close-up of [MUHALLAB]'s cold grey eye with a gold nugget reflected in the pupil
+- IMAGE: extreme close-up of one cold grey eye with a gold nugget reflected in the pupil, the eye of [MUHALLAB]
 - MOTION: the golden reflection grows in his eye, his pupil dilates
 
 **10-04** · 6s · لقطة قريبة
@@ -330,7 +330,7 @@
 - MOTION: wind blowing its fiery feathers, it lowers its head in sorrow
 
 **12-04** · 6s · لقطة قريبة جداً
-- IMAGE: extreme close-up of [JAMR-TEEN]'s amber eye with a tear made of liquid fire
+- IMAGE: extreme close-up of the amber eye of [JAMR-TEEN], a tear made of liquid fire forming
 - MOTION: the fiery tear rolls down and falls, sizzling into the rock below and leaving a small burned hole
 
 **12-05** · 4s · لقطة قريبة
@@ -374,7 +374,7 @@
 ## المشهد 14 – الاشتعال
 
 **14-01** · 5s · لقطة قريبة جداً
-- IMAGE: extreme close-up of [JAMR-TEEN]'s amber eye inside an iron cage
+- IMAGE: extreme close-up of the amber eye of [JAMR-TEEN] inside an iron cage
 - MOTION: the amber eye slowly turns bright white, light flooding out
 
 **14-02** · 7s · لقطة متوسطة

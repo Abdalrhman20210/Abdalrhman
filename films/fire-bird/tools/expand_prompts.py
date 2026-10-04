@@ -2,7 +2,8 @@
 """Expand [TOKEN] placeholders in 03-shot-prompts.md using 02-character-bible.md.
 
 Writes 03-shot-prompts-expanded.md with ready-to-paste prompts (STYLE appended
-to every IMAGE line) and prints shot count and total duration.
+to every IMAGE line), 04-veo-prompts.md with one combined text-to-video prompt
+per shot for Google Veo, and prints shot count and total duration.
 """
 import re
 from pathlib import Path
@@ -11,6 +12,12 @@ ROOT = Path(__file__).resolve().parent.parent
 BIBLE = ROOT / "02-character-bible.md"
 SHOTS = ROOT / "03-shot-prompts.md"
 OUT = ROOT / "03-shot-prompts-expanded.md"
+VEO_OUT = ROOT / "04-veo-prompts.md"
+
+VEO_AUDIO = (
+    "Audio: natural ambient sound effects only, no dialogue, no speech, "
+    "no music, no subtitles, no on-screen text."
+)
 
 # Video tools already see the character in the start frame, so motion prompts
 # use short nouns instead of the full description.
@@ -45,6 +52,15 @@ def main():
         f"**NEGATIVE (لكل الصور):** `{negative}`",
         "",
     ]
+    veo = [
+        "# برومبتات Veo – برومبت واحد لكل لقطة",
+        "",
+        "> مولَّد تلقائياً بواسطة `tools/expand_prompts.py`. انسخ البرومبت كاملاً والصقه في Veo.",
+        "> كل لقطة تخرج 8 ثوانٍ. الصوت فيها مؤثرات فقط، والحوار والتعليق الصوتي تضيفهما في المونتاج.",
+        "",
+    ]
+    veo_style = style.replace("film still, ", "").replace(", 16:9", "")
+    shot_id, image_body = None, None
     shots, seconds = 0, 0
     started = False
     for line in lines:
@@ -54,6 +70,7 @@ def main():
             continue
         m = re.match(r"\*\*([\w\-]+)\*\* · (\d+)s", line)
         if m:
+            shot_id = m.group(1)
             shots += 1
             seconds += int(m.group(2))
         if line.startswith("- IMAGE:"):
@@ -63,6 +80,7 @@ def main():
             missing = re.findall(r"\[[A-Z\-]+\]", body)
             if missing:
                 raise SystemExit(f"Unknown token(s) {missing} in: {line}")
+            image_body = body
             out.append("- IMAGE:")
             out.append("```")
             out.append(f"{body}. {style}")
@@ -72,12 +90,21 @@ def main():
             body = line[len("- MOTION:"):].strip()
             for name in tokens:
                 body = body.replace(f"[{name}]", MOTION_NAMES.get(name.split("-")[0], "it"))
+            veo.append(f"**{shot_id}**")
+            veo.append("```")
+            veo.append(f"{image_body}. {body}. Style: {veo_style}. {VEO_AUDIO}")
+            veo.append("```")
+            veo.append("")
             out.append("- MOTION:")
             out.append("```")
             out.append(body)
             out.append("```")
             continue
+        if line.startswith("## "):
+            veo.append(line)
+            veo.append("")
         out.append(line)
+    VEO_OUT.write_text("\n".join(veo) + "\n", encoding="utf-8")
     OUT.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"shots={shots} total={seconds}s ({seconds / 60:.1f} min) -> {OUT.name}")
 
