@@ -19,7 +19,7 @@ the camera slowly rises from the sand ripples revealing endless dunes and the st
 **01-02** · 5s · لقطة واسعة
 - IMAGE:
 ```
-a blazing red falling star streaking across the starry desert night sky, leaving a long trail of sparks and fire, dunes below. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a blazing red falling star streaking across the starry desert night sky under a thin crescent moon, leaving a long trail of sparks and fire, silver dunes below, deep blue night tones. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -29,7 +29,7 @@ the burning star streaks diagonally across the sky from top left, sparks trailin
 **01-03** · 5s · لقطة واسعة
 - IMAGE:
 ```
-a burning meteor crashing behind distant sand dunes at night, a bright orange flash lighting up the horizon. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a burning meteor crashing behind distant silver sand dunes at night under a thin crescent moon, a bright orange flash lighting up the horizon. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```

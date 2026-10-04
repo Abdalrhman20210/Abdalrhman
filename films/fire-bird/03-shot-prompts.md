@@ -18,11 +18,11 @@
 - MOTION: the camera slowly rises from the sand ripples revealing endless dunes and the starry sky; in the last seconds a single red star suddenly ignites high in the sky and begins to fall
 
 **01-02** · 5s · لقطة واسعة
-- IMAGE: a blazing red falling star streaking across the starry desert night sky, leaving a long trail of sparks and fire, dunes below
+- IMAGE: a blazing red falling star streaking across the starry desert night sky under a thin crescent moon, leaving a long trail of sparks and fire, silver dunes below, deep blue night tones
 - MOTION: the burning star streaks diagonally across the sky from top left, sparks trailing, camera tilts down following it
 
 **01-03** · 5s · لقطة واسعة
-- IMAGE: a burning meteor crashing behind distant sand dunes at night, a bright orange flash lighting up the horizon
+- IMAGE: a burning meteor crashing behind distant silver sand dunes at night under a thin crescent moon, a bright orange flash lighting up the horizon
 - MOTION: the meteor disappears behind the dunes, a huge orange flash blooms on the horizon then slowly fades, sand shockwave rising
 
 **01-04** · 6s · لقطة متوسطة

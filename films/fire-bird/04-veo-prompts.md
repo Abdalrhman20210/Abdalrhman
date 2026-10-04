@@ -12,12 +12,12 @@ low-angle shot just above rippled sand dunes at night, a thin crescent moon, an 
 
 **01-02**
 ```
-a blazing red falling star streaking across the starry desert night sky, leaving a long trail of sparks and fire, dunes below. the burning star streaks diagonally across the sky from top left, sparks trailing, camera tilts down following it. Style: photorealistic cinematic epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa. Audio: natural ambient sound effects only, no dialogue, no speech, no music, no subtitles, no on-screen text, no film borders.
+a blazing red falling star streaking across the starry desert night sky under a thin crescent moon, leaving a long trail of sparks and fire, silver dunes below, deep blue night tones. the burning star streaks diagonally across the sky from top left, sparks trailing, camera tilts down following it. Style: photorealistic cinematic epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa. Audio: natural ambient sound effects only, no dialogue, no speech, no music, no subtitles, no on-screen text, no film borders.
 ```
 
 **01-03**
 ```
-a burning meteor crashing behind distant sand dunes at night, a bright orange flash lighting up the horizon. the meteor disappears behind the dunes, a huge orange flash blooms on the horizon then slowly fades, sand shockwave rising. Style: photorealistic cinematic epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa. Audio: natural ambient sound effects only, no dialogue, no speech, no music, no subtitles, no on-screen text, no film borders.
+a burning meteor crashing behind distant silver sand dunes at night under a thin crescent moon, a bright orange flash lighting up the horizon. the meteor disappears behind the dunes, a huge orange flash blooms on the horizon then slowly fades, sand shockwave rising. Style: photorealistic cinematic epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa. Audio: natural ambient sound effects only, no dialogue, no speech, no music, no subtitles, no on-screen text, no film borders.
 ```
 
 **01-04**
