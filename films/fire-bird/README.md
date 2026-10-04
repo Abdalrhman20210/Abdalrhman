@@ -15,6 +15,21 @@
 | [`04-veo-prompts.md`](04-veo-prompts.md) | برومبت واحد جاهز لكل لقطة في Google Veo |
 | [`tools/expand_prompts.py`](tools/expand_prompts.py) | يعيد توليد الملف الموسّع بعد أي تعديل: `python3 tools/expand_prompts.py` |
 
+
+## 🖼️ الصور المرجعية (مولّدة بـ Canva)
+
+ارفع الصورة المناسبة لـ Veo مع كل لقطة تظهر فيها الشخصية، حتى يبقى شكلها ثابتاً.
+
+| الشخصية | المشاهد | الرابط |
+|---|---|---|
+| حليمة | كل الفيلم | [افتح](https://www.canva.com/M/MAHXENFSNNA) |
+| جمر – فرخ | 5 – 6 | [افتح](https://www.canva.com/M/MAHXEFGkpME) |
+| جمر – صغير | 7 – 10 | [افتح](https://www.canva.com/M/MAHXEGqufFs) |
+| جمر – شاب | 11 – 14 | [افتح](https://www.canva.com/M/MAHXEN477Ro) |
+| جمر – المُنبعث | 15 – 16 | [افتح](https://www.canva.com/M/MAHXEG0uEx0) |
+| سلمى | 7، 9، 11، 12، 15، 16 | [افتح](https://www.canva.com/M/MAHXEIB1PxU) |
+| الأمير مهلّب | 10، 12 – 14 | لم تُولَّد بعد (انتهى رصيد Canva). البرومبت موجود في `02-character-bible.md` |
+
 ---
 
 ## 🎬 خطوات الإنتاج
