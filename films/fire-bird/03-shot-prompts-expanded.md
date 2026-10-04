@@ -619,7 +619,7 @@ he slowly closes his fist and smiles coldly while speaking
 **11-01** · 5s · لقطة واسعة
 - IMAGE:
 ```
-a line of burning torches approaching across dark dunes at night, palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, curved scimitars, some carrying torches and spears silhouettes. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a line of burning torches approaching across dark dunes at night, palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, sheathed curved swords at their belts, some carrying torches silhouettes. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -639,11 +639,11 @@ she pushes the tent flap open and calls out urgently, waving her hand toward out
 **11-03** · 6s · لقطة واسعة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand running across moonlit dunes carrying a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters in her arms, arrows stuck in the sand around her. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand hurrying across moonlit dunes carrying a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters in her arms, distant torchlight on the dunes behind her. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-she runs desperately, arrows thud into the sand beside her, camera tracks from behind
+she hurries through the sand with determination, holding the glowing bird close, torches flicker far behind her, camera moves alongside her
 ```
 
 **11-04** · 6s · لقطة واسعة جداً
@@ -689,11 +689,11 @@ she throws her arms upward, the bird flaps and rises into the storm
 **11-08** · 6s · لقطة واسعة
 - IMAGE:
 ```
-palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, curved scimitars, some carrying torches and spears grabbing a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand by the arms in the sandstorm, a glowing bird visible high above in the dark. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+inside a swirling sandstorm at night, palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, sheathed curved swords at their belts, some carrying torches surrounding a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand and escorting her away, she looks up at the sky with sorrow, a glowing bird visible high above in the dark. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-soldiers drag her away, the bird looks back and lets out a mournful cry, then vanishes into darkness
+the guards lead her away into the storm, the glowing bird circles once, lets out a mournful cry and disappears into the darkness of the storm
 ```
 
 ---
@@ -703,7 +703,7 @@ soldiers drag her away, the bird looks back and lets out a mournful cry, then va
 **12-01** · 6s · لقطة واسعة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand tied to a tall wooden pole in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around at dawn, frightened villagers gathered around in silence. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand standing under guard beside a tall wooden post in the center of the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around at dawn, worried villagers gathered around in silence. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -757,11 +757,11 @@ a single tear rolls down her cheek, she holds her hands together close to her ch
 **13-01** · 5s · لقطة واسعة
 - IMAGE:
 ```
-palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, curved scimitars, some carrying torches and spears lighting a pile of wood around the pole where a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand is tied in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around, the sun setting red. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, sheathed curved swords at their belts, some carrying torches holding burning torches in a circle around the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around at red sunset, a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand standing under guard beside the wooden post, tense atmosphere. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-torches lowered into the wood, first flames catching
+the guards raise their torches high, the flames flicker in the wind, villagers step back nervously
 ```
 
 **13-02** · 5s · لقطة متوسطة
@@ -787,31 +787,31 @@ the bird glides down and lands gently, folding its wings and bowing its head
 **13-04** · 5s · لقطة قريبة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand tied to the pole screaming in despair, tears streaming. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+close-up of a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand standing beside the wooden post at sunset, looking up at the sky with tears in her eyes, desperate emotional expression. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-she struggles against the ropes and screams
+she calls out toward the sky with heartbreak, tears rolling down her cheeks
 ```
 
 **13-05** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, curved scimitars, some carrying torches and spears throwing heavy chain nets over a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters and dragging it into a giant iron cage. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, sheathed curved swords at their belts, some carrying torches casting a large rope net over a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters beside a giant iron cage in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around, the bird calm and not resisting. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-chains fall on the bird, soldiers pull it into the cage
+the net falls over the glowing bird, the guards guide it into the cage and close the door
 ```
 
 **13-06** · 6s · لقطة قريبة
 - IMAGE:
 ```
-a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger reaching through iron cage bars and pulling a glowing feather from a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters, greedy face. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger reaching through iron cage bars toward a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters and taking a glowing feather, greedy face lit by the golden light. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-he yanks the feather, the bird cries out in pain, sparks burst
+he takes a glowing feather from the bird's wing, the bird lets out a sad cry, a few sparks drift down
 ```
 
 **13-07** · 6s · لقطة واسعة
@@ -861,21 +861,21 @@ a wave of fire expands outward, parting around the people like a protective wall
 **14-04** · 6s · لقطة متوسطة
 - IMAGE:
 ```
-a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters flying to a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand and burning the ropes off her, wrapping its flaming wings around her. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a majestic phoenix the size of a large eagle, deep crimson body fading to bright gold wing tips, feathers made of living flame, large amber eyes, a tall flame crest, long flowing tail of fire, wingspan 2 meters flying to a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand in the glowing square and wrapping its flaming wings around her protectively, she is unharmed. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-the bird swoops in, ropes burn away, wings close around her like a shield
+the bird swoops in and folds its gentle flaming wings around her like a protective shield, she is safe inside
 ```
 
 **14-05** · 7s · لقطة واسعة
 - IMAGE:
 ```
-a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger screaming as the gold around him turns back into sand that rises like a wave over him. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger staring in shock as the piles of gold around him turn back into ordinary sand, a huge wave of sand rising behind him. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-the sand wave rises and crashes over him, burying him and his gold completely
+the gold dissolves into sand, the sand wave rises and sweeps over the prince and his treasure, leaving only a smooth dune
 ```
 
 **14-06** · 7s · لقطة قريبة

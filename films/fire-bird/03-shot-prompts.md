@@ -290,8 +290,8 @@
 - MOTION: she pushes the tent flap open and calls out urgently, waving her hand toward outside
 
 **11-03** · 6s · لقطة واسعة
-- IMAGE: [HALIMA] running across moonlit dunes carrying [JAMR-TEEN] in her arms, arrows stuck in the sand around her
-- MOTION: she runs desperately, arrows thud into the sand beside her, camera tracks from behind
+- IMAGE: [HALIMA] hurrying across moonlit dunes carrying [JAMR-TEEN] in her arms, distant torchlight on the dunes behind her
+- MOTION: she hurries through the sand with determination, holding the glowing bird close, torches flicker far behind her, camera moves alongside her
 
 **11-04** · 6s · لقطة واسعة جداً
 - IMAGE: a massive wall of brown sandstorm rolling across the desert at night, towering over tiny figures
@@ -310,15 +310,15 @@
 - MOTION: she throws her arms upward, the bird flaps and rises into the storm
 
 **11-08** · 6s · لقطة واسعة
-- IMAGE: [SOLDIERS] grabbing [HALIMA] by the arms in the sandstorm, a glowing bird visible high above in the dark
-- MOTION: soldiers drag her away, the bird looks back and lets out a mournful cry, then vanishes into darkness
+- IMAGE: inside a swirling sandstorm at night, [SOLDIERS] surrounding [HALIMA] and escorting her away, she looks up at the sky with sorrow, a glowing bird visible high above in the dark
+- MOTION: the guards lead her away into the storm, the glowing bird circles once, lets out a mournful cry and disappears into the darkness of the storm
 
 ---
 
 ## المشهد 12 – الطُّعم
 
 **12-01** · 6s · لقطة واسعة
-- IMAGE: [HALIMA] tied to a tall wooden pole in [SQUARE] at dawn, frightened villagers gathered around in silence
+- IMAGE: [HALIMA] standing under guard beside a tall wooden post in the center of [SQUARE] at dawn, worried villagers gathered around in silence
 - MOTION: slow crane shot rising over the square
 
 **12-02** · 6s · لقطة متوسطة (زاوية منخفضة)
@@ -342,8 +342,8 @@
 ## المشهد 13 – العودة
 
 **13-01** · 5s · لقطة واسعة
-- IMAGE: [SOLDIERS] lighting a pile of wood around the pole where [HALIMA] is tied in [SQUARE], the sun setting red
-- MOTION: torches lowered into the wood, first flames catching
+- IMAGE: [SOLDIERS] holding burning torches in a circle around [SQUARE] at red sunset, [HALIMA] standing under guard beside the wooden post, tense atmosphere
+- MOTION: the guards raise their torches high, the flames flicker in the wind, villagers step back nervously
 
 **13-02** · 5s · لقطة متوسطة
 - IMAGE: villagers in [SQUARE] looking up at the sky in awe as a huge shadow passes over them, red sunset light
@@ -354,16 +354,16 @@
 - MOTION: the bird glides down and lands gently, folding its wings and bowing its head
 
 **13-04** · 5s · لقطة قريبة
-- IMAGE: [HALIMA] tied to the pole screaming in despair, tears streaming
-- MOTION: she struggles against the ropes and screams
+- IMAGE: close-up of [HALIMA] standing beside the wooden post at sunset, looking up at the sky with tears in her eyes, desperate emotional expression
+- MOTION: she calls out toward the sky with heartbreak, tears rolling down her cheeks
 
 **13-05** · 5s · لقطة متوسطة
-- IMAGE: [SOLDIERS] throwing heavy chain nets over [JAMR-TEEN] and dragging it into a giant iron cage
-- MOTION: chains fall on the bird, soldiers pull it into the cage
+- IMAGE: [SOLDIERS] casting a large rope net over [JAMR-TEEN] beside a giant iron cage in [SQUARE], the bird calm and not resisting
+- MOTION: the net falls over the glowing bird, the guards guide it into the cage and close the door
 
 **13-06** · 6s · لقطة قريبة
-- IMAGE: [MUHALLAB] reaching through iron cage bars and pulling a glowing feather from [JAMR-TEEN], greedy face
-- MOTION: he yanks the feather, the bird cries out in pain, sparks burst
+- IMAGE: [MUHALLAB] reaching through iron cage bars toward [JAMR-TEEN] and taking a glowing feather, greedy face lit by the golden light
+- MOTION: he takes a glowing feather from the bird's wing, the bird lets out a sad cry, a few sparks drift down
 
 **13-07** · 6s · لقطة واسعة
 - IMAGE: [MUHALLAB] laughing madly with arms spread, glowing feathers on the ground turning sand into gold all around his feet
@@ -386,12 +386,12 @@
 - MOTION: a wave of fire expands outward, parting around the people like a protective wall, [SOLDIERS] flee
 
 **14-04** · 6s · لقطة متوسطة
-- IMAGE: [JAMR-TEEN] flying to [HALIMA] and burning the ropes off her, wrapping its flaming wings around her
-- MOTION: the bird swoops in, ropes burn away, wings close around her like a shield
+- IMAGE: [JAMR-TEEN] flying to [HALIMA] in the glowing square and wrapping its flaming wings around her protectively, she is unharmed
+- MOTION: the bird swoops in and folds its gentle flaming wings around her like a protective shield, she is safe inside
 
 **14-05** · 7s · لقطة واسعة
-- IMAGE: [MUHALLAB] screaming as the gold around him turns back into sand that rises like a wave over him
-- MOTION: the sand wave rises and crashes over him, burying him and his gold completely
+- IMAGE: [MUHALLAB] staring in shock as the piles of gold around him turn back into ordinary sand, a huge wave of sand rising behind him
+- MOTION: the gold dissolves into sand, the sand wave rises and sweeps over the prince and his treasure, leaving only a smooth dune
 
 **14-06** · 7s · لقطة قريبة
 - IMAGE: [HALIMA] safe inside a cocoon of burning wings, [JAMR-TEEN] resting its head on her shoulder, feathers falling away as sparks

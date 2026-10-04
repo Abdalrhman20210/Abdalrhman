@@ -101,7 +101,7 @@ NEGATIVE: film border, film strip edges, frame numbers, vignette, bokeh circles,
 ## ⚔️ الجنود – SOLDIERS
 
 ```
-[SOLDIERS] palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, curved scimitars, some carrying torches and spears
+[SOLDIERS] palace guards wearing black robes and black face veils showing only their eyes, red sashes around the waist, sheathed curved swords at their belts, some carrying torches
 ```
 
 ---
