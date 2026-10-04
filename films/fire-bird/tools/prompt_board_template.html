@@ -1,0 +1,192 @@
+<title>لوحة برومبتات طائر النار</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@500;700&family=IBM+Plex+Sans+Arabic:wght@400;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: a shooting log — sticky progress bar, then one row per shot grouped by scene, prompt beside its controls */
+:root {
+  --bg: #eceef2;
+  --surface: #ffffff;
+  --fg: #1c1a21;
+  --muted: #625d6b;
+  --line: #d6d8df;
+  --ember: #b8400c;
+  --ember-soft: #fbe7dc;
+  --done: #2f7a4a;
+  --done-soft: #e1f1e6;
+  --font-display: "Reem Kufi", "IBM Plex Sans Arabic", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans Arabic", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121117; --surface: #1b1a22; --fg: #ece9f1; --muted: #a39dad; --line: #2e2c37;
+    --ember: #f6844a; --ember-soft: #3a2117; --done: #6fcf8f; --done-soft: #17301f;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121117; --surface: #1b1a22; --fg: #ece9f1; --muted: #a39dad; --line: #2e2c37;
+  --ember: #f6844a; --ember-soft: #3a2117; --done: #6fcf8f; --done-soft: #17301f;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.6;
+}
+.wrap { max-width: 960px; margin: 0 auto; padding-inline: 16px; padding-block: 0 64px; }
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg); border-bottom: 1px solid var(--line);
+  padding-block: 14px;
+}
+.top-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+h1 {
+  font-family: var(--font-display); font-weight: 700; font-size: 1.6rem;
+  margin: 0; color: var(--ember); text-wrap: balance;
+}
+.progress { flex: 1 1 220px; min-width: 0; display: grid; gap: 4px; }
+.progress-label { font-size: .85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.bar > span { display: block; height: 100%; width: 0; background: var(--ember); transition: width .3s; }
+select {
+  font: inherit; color: var(--fg); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; max-width: 100%;
+}
+.intro { color: var(--muted); margin-block: 16px 8px; max-width: 65ch; }
+h2 {
+  font-family: var(--font-display); font-weight: 500; font-size: 1.25rem;
+  margin: 36px 0 12px; scroll-margin-top: 110px; text-wrap: balance;
+}
+.shots { display: grid; gap: 10px; }
+.shot {
+  display: grid; grid-template-columns: 9.5rem minmax(0, 1fr); gap: 14px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px;
+}
+.shot.is-done { background: var(--done-soft); border-color: transparent; }
+.shot.is-done .prompt { opacity: .55; }
+.meta { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.id { font-family: var(--font-mono); font-size: 1.1rem; font-variant-numeric: tabular-nums; }
+.secs { font-size: .8rem; color: var(--muted); }
+.cast { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip {
+  font-size: .78rem; padding: 1px 8px; border-radius: 999px;
+  background: var(--ember-soft); color: var(--ember); font-weight: 600;
+}
+.chip.none { background: transparent; color: var(--muted); border: 1px dashed var(--line); font-weight: 400; }
+.body { min-width: 0; display: grid; gap: 10px; }
+.prompt {
+  margin: 0; direction: ltr; text-align: left; white-space: pre-wrap; word-break: break-word;
+  font-family: var(--font-mono); font-size: .8rem; line-height: 1.55; color: var(--fg);
+  max-height: 9.5em; overflow: auto; user-select: all;
+}
+.actions { display: flex; flex-wrap: wrap; gap: 8px; }
+button.copy {
+  font: inherit; font-weight: 600; cursor: pointer;
+  background: var(--ember); color: var(--surface); border: 0; border-radius: 6px; padding: 6px 16px;
+}
+button.copy.ok { background: var(--done); }
+label.mark {
+  display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  border: 1px solid var(--line); border-radius: 6px; padding: 5px 12px; font-size: .9rem;
+}
+.shot.is-done label.mark { color: var(--done); border-color: var(--done); }
+button:focus-visible, select:focus-visible, label.mark:focus-within { outline: 2px solid var(--ember); outline-offset: 2px; }
+@media (max-width: 560px) {
+  .shot { grid-template-columns: 1fr; }
+  .meta { flex-direction: row; flex-wrap: wrap; align-items: center; }
+}
+@media (prefers-reduced-motion: reduce) { .bar > span { transition: none; } }
+</style>
+
+<div class="wrap" dir="rtl" lang="ar">
+  <header class="top">
+    <div class="top-row">
+      <h1>طائر النار</h1>
+      <div class="progress">
+        <span class="progress-label" id="progress-label"></span>
+        <div class="bar"><span id="bar"></span></div>
+      </div>
+      <select id="jump" aria-label="انتقل إلى مشهد"></select>
+    </div>
+  </header>
+  <p class="intro">
+    برومبت لكل لقطة، جاهز للصق في Google Flow. أرفق الشخصيات المكتوبة بجانب اللقطة قبل الإرسال،
+    ثم سمِّ المقطع برقمه عند التنزيل وعلِّم عليه «تم». العلامات تُحفظ في متصفحك فقط.
+  </p>
+  <main id="list"></main>
+</div>
+
+<script>
+const SHOTS = __SHOTS_JSON__;
+const KEY = "firebird-done";
+let done = new Set();
+try { done = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (e) {}
+function save() { try { localStorage.setItem(KEY, JSON.stringify([...done])); } catch (e) {} }
+
+const list = document.getElementById("list");
+const jump = document.getElementById("jump");
+jump.append(new Option("انتقل إلى مشهد…", ""));
+const scenes = [];
+SHOTS.forEach(s => { if (!scenes.includes(s.scene)) scenes.push(s.scene); });
+
+scenes.forEach((scene, i) => {
+  const h = document.createElement("h2");
+  h.id = "s" + i;
+  h.textContent = scene;
+  const box = document.createElement("div");
+  box.className = "shots";
+  list.append(h, box);
+  jump.append(new Option(scene, h.id));
+  SHOTS.filter(s => s.scene === scene).forEach(s => box.append(card(s)));
+});
+
+function card(s) {
+  const el = document.createElement("article");
+  el.className = "shot";
+  const meta = document.createElement("div");
+  meta.className = "meta";
+  meta.innerHTML = `<span class="id"></span><span class="secs">${s.seconds} ثوانٍ</span><div class="cast"></div>`;
+  meta.querySelector(".id").textContent = s.id;
+  const cast = meta.querySelector(".cast");
+  if (s.cast.length) s.cast.forEach(c => { const b = document.createElement("span"); b.className = "chip"; b.textContent = c; cast.append(b); });
+  else { const b = document.createElement("span"); b.className = "chip none"; b.textContent = "بدون شخصيات"; cast.append(b); }
+
+  const body = document.createElement("div");
+  body.className = "body";
+  const pre = document.createElement("pre");
+  pre.className = "prompt";
+  pre.textContent = s.prompt;
+  const actions = document.createElement("div");
+  actions.className = "actions";
+  const btn = document.createElement("button");
+  btn.className = "copy"; btn.type = "button"; btn.textContent = "نسخ البرومبت";
+  btn.addEventListener("click", () => {
+    const flash = t => { btn.textContent = t; btn.classList.add("ok"); setTimeout(() => { btn.textContent = "نسخ البرومبت"; btn.classList.remove("ok"); }, 1600); };
+    const select = () => { const r = document.createRange(); r.selectNodeContents(pre); const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(s.prompt).then(() => flash("تم النسخ"), () => { select(); flash("محدد، اضغط Ctrl+C"); });
+    } else { select(); flash("محدد، اضغط Ctrl+C"); }
+  });
+  const lab = document.createElement("label");
+  lab.className = "mark";
+  const cb = document.createElement("input");
+  cb.type = "checkbox"; cb.id = "done-" + s.id; cb.checked = done.has(s.id);
+  lab.append(cb, document.createTextNode("تم"));
+  cb.addEventListener("change", () => { cb.checked ? done.add(s.id) : done.delete(s.id); save(); el.classList.toggle("is-done", cb.checked); update(); });
+  el.classList.toggle("is-done", cb.checked);
+  actions.append(btn, lab);
+  body.append(pre, actions);
+  el.append(meta, body);
+  return el;
+}
+
+function update() {
+  const n = SHOTS.filter(s => done.has(s.id)).length;
+  document.getElementById("progress-label").textContent = `${n} من ${SHOTS.length} لقطة جاهزة`;
+  document.getElementById("bar").style.width = (n / SHOTS.length * 100) + "%";
+}
+jump.addEventListener("change", () => { if (jump.value) document.getElementById(jump.value).scrollIntoView({ behavior: "smooth" }); jump.value = ""; });
+update();
+</script>

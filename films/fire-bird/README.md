@@ -13,6 +13,7 @@
 | [`03-shot-prompts.md`](03-shot-prompts.md) | 102 لقطة، ولكل لقطة برومبت صورة وبرومبت حركة (النسخة التي تعدّلها) |
 | [`03-shot-prompts-expanded.md`](03-shot-prompts-expanded.md) | نفس البرومبتات جاهزة للنسخ واللصق مباشرة |
 | [`04-veo-prompts.md`](04-veo-prompts.md) | برومبت واحد جاهز لكل لقطة في Google Veo |
+| [`prompt-board.html`](prompt-board.html) | نفس البرومبتات في صفحة فيها زر نسخ وعلامة «تم» لكل لقطة: https://claude.ai/artifact/3Mh41gLn8neqppWCyDhYJB |
 | [`tools/expand_prompts.py`](tools/expand_prompts.py) | يعيد توليد الملف الموسّع بعد أي تعديل: `python3 tools/expand_prompts.py` |
 
 

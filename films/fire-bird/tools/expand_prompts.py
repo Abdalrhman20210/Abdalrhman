@@ -5,6 +5,7 @@ Writes 03-shot-prompts-expanded.md with ready-to-paste prompts (STYLE appended
 to every IMAGE line), 04-veo-prompts.md with one combined text-to-video prompt
 per shot for Google Veo, and prints shot count and total duration.
 """
+import json
 import re
 from pathlib import Path
 
@@ -13,6 +14,8 @@ BIBLE = ROOT / "02-character-bible.md"
 SHOTS = ROOT / "03-shot-prompts.md"
 OUT = ROOT / "03-shot-prompts-expanded.md"
 VEO_OUT = ROOT / "04-veo-prompts.md"
+BOARD_TEMPLATE = ROOT / "tools" / "prompt_board_template.html"
+BOARD_OUT = ROOT / "prompt-board.html"
 
 # Names of the characters as saved in Google Flow's character library.
 FLOW_CHARACTERS = {
@@ -68,7 +71,8 @@ def main():
         "",
     ]
     veo_style = style.replace("film still, ", "").replace(", 16:9", "")
-    shot_id, image_body = None, None
+    shot_id, image_body, scene, duration = None, None, None, 0
+    board = []
     shots, seconds = 0, 0
     started = False
     for line in lines:
@@ -79,6 +83,7 @@ def main():
         m = re.match(r"\*\*([\w\-]+)\*\* · (\d+)s", line)
         if m:
             shot_id = m.group(1)
+            duration = int(m.group(2))
             shots += 1
             seconds += int(m.group(2))
         if line.startswith("- IMAGE:"):
@@ -99,9 +104,12 @@ def main():
             body = line[len("- MOTION:"):].strip()
             for name in tokens:
                 body = body.replace(f"[{name}]", MOTION_NAMES.get(name.split("-")[0], "it"))
+            prompt = f"Create a video: {image_body}. {body}. Style: {veo_style}. {VEO_AUDIO}"
+            board.append({"id": shot_id, "scene": scene, "seconds": duration,
+                          "cast": cast, "prompt": prompt})
             veo.append(f"**{shot_id}** · 👤 أرفق: {'، '.join(cast) if cast else 'لا شيء'}")
             veo.append("```")
-            veo.append(f"{image_body}. {body}. Style: {veo_style}. {VEO_AUDIO}")
+            veo.append(prompt)
             veo.append("```")
             veo.append("")
             out.append("- MOTION:")
@@ -110,9 +118,15 @@ def main():
             out.append("```")
             continue
         if line.startswith("## "):
+            scene = line[3:].strip()
             veo.append(line)
             veo.append("")
         out.append(line)
+    data = json.dumps(board, ensure_ascii=False).replace("</", "<\\/")
+    BOARD_OUT.write_text(
+        BOARD_TEMPLATE.read_text(encoding="utf-8").replace("__SHOTS_JSON__", data),
+        encoding="utf-8",
+    )
     VEO_OUT.write_text("\n".join(veo) + "\n", encoding="utf-8")
     OUT.write_text("\n".join(out) + "\n", encoding="utf-8")
     print(f"shots={shots} total={seconds}s ({seconds / 60:.1f} min) -> {OUT.name}")
