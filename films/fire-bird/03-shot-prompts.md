@@ -13,9 +13,9 @@
 
 ## المشهد 1 – النجم الساقط
 
-**01-01** · 6s · لقطة واسعة جداً
-- IMAGE: vast silver sand dunes under a full moon, an incredibly dense starry sky with the Milky Way, total silence and stillness, night
-- MOTION: very slow camera push forward over the dunes, stars twinkling, gentle wind moving sand grains
+**01-01** · 8s · لقطة افتتاحية (Hook)
+- IMAGE: low-angle shot just above rippled sand dunes at night, a thin crescent moon, an endless sky full of stars, deep blue and silver tones, mysterious and calm
+- MOTION: the camera slowly rises from the sand ripples revealing endless dunes and the starry sky; in the last seconds a single red star suddenly ignites high in the sky and begins to fall
 
 **01-02** · 5s · لقطة واسعة
 - IMAGE: a blazing red falling star streaking across the starry desert night sky, leaving a long trail of sparks and fire, dunes below

@@ -16,7 +16,7 @@ VEO_OUT = ROOT / "04-veo-prompts.md"
 
 VEO_AUDIO = (
     "Audio: natural ambient sound effects only, no dialogue, no speech, "
-    "no music, no subtitles, no on-screen text."
+    "no music, no subtitles, no on-screen text, no film borders."
 )
 
 # Video tools already see the character in the start frame, so motion prompts

@@ -13,12 +13,12 @@
 ## 🎨 الستايل العام (يُضاف في نهاية كل برومبت)
 
 ```
-STYLE: photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, shallow depth of field, anamorphic lens flare, 35mm film grain, shot on ARRI Alexa, 16:9
+STYLE: photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 
 **نيجاتيف برومبت (إن كانت الأداة تدعمه):**
 ```
-NEGATIVE: cartoon, anime, 3d render look, plastic skin, extra fingers, deformed hands, text, watermark, logo, modern clothing, modern buildings, cars, blurry face
+NEGATIVE: film border, film strip edges, frame numbers, vignette, bokeh circles, cartoon, anime, 3d render look, plastic skin, extra fingers, deformed hands, text, watermark, logo, modern clothing, modern buildings, cars, blurry face
 ```
 
 ---
