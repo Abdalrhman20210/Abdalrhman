@@ -521,21 +521,21 @@ a ring of gold spreads outward from the feather across the sand, glittering in s
 **09-03** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves gasping with both hands on her cheeks, staring down, golden light reflecting on her face. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves with an amazed expression and both hands on her cheeks, looking down at the sand, warm golden light reflecting on her face. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-she gasps and slowly kneels down
+her mouth opens in wonder and she slowly kneels down to look closer
 ```
 
 **09-04** · 5s · لقطة واسعة
 - IMAGE:
 ```
-a busy dusty market in a dying desert oasis, a few drooping dried palm trees, a round stone well that is completely dry, cracked parched earth, small mud-brick houses with flat roofs, dusty air, villagers carrying empty clay jars, stalls with spices and fabrics, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves running through the crowd clutching something. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a lively traditional market in a dying desert oasis, a few drooping dried palm trees, a round stone well that is completely dry, cracked parched earth, small mud-brick houses with flat roofs, dusty air, villagers carrying empty clay jars, colorful stalls with spices and fabrics, friendly villagers shopping, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves hurrying along the market street holding a small shiny golden pebble in her hand. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-tracking shot following her as she weaves between people
+the camera glides smoothly beside the girl as she hurries happily past the stalls, villagers going about their day
 ```
 
 **09-05** · 5s · لقطة متوسطة
@@ -629,11 +629,11 @@ torches moving closer in a menacing line
 **11-02** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves running breathless into a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest at night, crying, her face lit by the lamp. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves hurrying into a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest at night with an urgent worried expression, her face lit by the warm oil lamp. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-she bursts in, panting and shouting
+she pushes the tent flap open and calls out urgently, waving her hand toward outside
 ```
 
 **11-03** · 6s · لقطة واسعة
@@ -743,11 +743,11 @@ the fiery tear rolls down and falls, sizzling into the rock below and leaving a 
 **12-05** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves crying in the crowd of villagers in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves standing among the villagers in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around at dawn with teary eyes and a sad expression. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-tears roll down, she clutches her leather bracelet
+a single tear rolls down her cheek, she holds her hands together close to her chest
 ```
 
 ---

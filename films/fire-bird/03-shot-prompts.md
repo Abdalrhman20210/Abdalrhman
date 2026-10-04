@@ -238,12 +238,12 @@
 - MOTION: a ring of gold spreads outward from the feather across the sand, glittering in sunlight
 
 **09-03** · 4s · لقطة قريبة
-- IMAGE: [SALMA] gasping with both hands on her cheeks, staring down, golden light reflecting on her face
-- MOTION: she gasps and slowly kneels down
+- IMAGE: [SALMA] with an amazed expression and both hands on her cheeks, looking down at the sand, warm golden light reflecting on her face
+- MOTION: her mouth opens in wonder and she slowly kneels down to look closer
 
 **09-04** · 5s · لقطة واسعة
-- IMAGE: a busy dusty market in [OASIS-DRY], stalls with spices and fabrics, [SALMA] running through the crowd clutching something
-- MOTION: tracking shot following her as she weaves between people
+- IMAGE: a lively traditional market in [OASIS-DRY], colorful stalls with spices and fabrics, friendly villagers shopping, [SALMA] hurrying along the market street holding a small shiny golden pebble in her hand
+- MOTION: the camera glides smoothly beside the girl as she hurries happily past the stalls, villagers going about their day
 
 **09-05** · 5s · لقطة متوسطة
 - IMAGE: [SALMA] placing a small nugget of gold on the wooden table of [QIRWASH], pointing at a cloth bag of medicine
@@ -286,8 +286,8 @@
 - MOTION: torches moving closer in a menacing line
 
 **11-02** · 5s · لقطة متوسطة
-- IMAGE: [SALMA] running breathless into [TENT] at night, crying, her face lit by the lamp
-- MOTION: she bursts in, panting and shouting
+- IMAGE: [SALMA] hurrying into [TENT] at night with an urgent worried expression, her face lit by the warm oil lamp
+- MOTION: she pushes the tent flap open and calls out urgently, waving her hand toward outside
 
 **11-03** · 6s · لقطة واسعة
 - IMAGE: [HALIMA] running across moonlit dunes carrying [JAMR-TEEN] in her arms, arrows stuck in the sand around her
@@ -334,8 +334,8 @@
 - MOTION: the fiery tear rolls down and falls, sizzling into the rock below and leaving a small burned hole
 
 **12-05** · 4s · لقطة قريبة
-- IMAGE: [SALMA] crying in the crowd of villagers in [SQUARE]
-- MOTION: tears roll down, she clutches her leather bracelet
+- IMAGE: [SALMA] standing among the villagers in [SQUARE] at dawn with teary eyes and a sad expression
+- MOTION: a single tear rolls down her cheek, she holds her hands together close to her chest
 
 ---
 
