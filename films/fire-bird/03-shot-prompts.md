@@ -246,8 +246,8 @@
 - MOTION: the camera glides smoothly beside the girl as she hurries happily past the stalls, villagers going about their day
 
 **09-05** · 5s · لقطة متوسطة
-- IMAGE: [SALMA] placing a small nugget of gold on the wooden table of [QIRWASH], pointing at a cloth bag of medicine
-- MOTION: she places the gold down nervously, [QIRWASH] leans forward
+- IMAGE: a busy open-air market stall in daylight with other shoppers around, a brass scale and dried herbs on a wooden counter, [SALMA] standing at the counter and placing a small shiny golden pebble on it to buy a cloth bag of herbal medicine, behind the counter [QIRWASH]
+- MOTION: the girl sets the golden pebble on the counter and points at the bag of herbs, the merchant looks down at the gold with wide surprised eyes
 
 **09-06** · 6s · لقطة قريبة
 - IMAGE: [QIRWASH] biting a gold nugget and examining it, his eyes narrowing with greed

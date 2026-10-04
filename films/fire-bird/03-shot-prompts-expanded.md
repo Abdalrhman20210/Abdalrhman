@@ -541,17 +541,17 @@ the camera glides smoothly beside the girl as she hurries happily past the stall
 **09-05** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves placing a small nugget of gold on the wooden table of a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table, pointing at a cloth bag of medicine. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a busy open-air market stall in daylight with other shoppers around, a brass scale and dried herbs on a wooden counter, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves standing at the counter and placing a small shiny golden pebble on it to buy a cloth bag of herbal medicine, behind the counter a thin Arab market merchant in his 40s with a narrow face, sharp observant eyes and a patchy beard, wearing a dusty brown robe and a faded green turban. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-she places the gold down nervously, the merchant leans forward
+the girl sets the golden pebble on the counter and points at the bag of herbs, the merchant looks down at the gold with wide surprised eyes
 ```
 
 **09-06** · 6s · لقطة قريبة
 - IMAGE:
 ```
-a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table biting a gold nugget and examining it, his eyes narrowing with greed. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a thin Arab market merchant in his 40s with a narrow face, sharp observant eyes and a patchy beard, wearing a dusty brown robe and a faded green turban biting a gold nugget and examining it, his eyes narrowing with greed. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -561,7 +561,7 @@ he bites the gold, inspects it against the light, a slow sly smile spreads acros
 **09-07** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table standing at his stall watching a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves run away, then turning to look up at the golden palace on the hill. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a thin Arab market merchant in his 40s with a narrow face, sharp observant eyes and a patchy beard, wearing a dusty brown robe and a faded green turban standing at his stall watching a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves run away, then turning to look up at the golden palace on the hill. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -585,7 +585,7 @@ slow dolly forward down the hall toward the throne
 **10-02** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table bowing deeply before a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger on his throne inside a grand palace on a hill above the oasis, golden domes, white marble columns, an indoor fountain overflowing with clear water, gold everywhere, silk curtains, in sharp contrast to the dying oasis below. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a thin Arab market merchant in his 40s with a narrow face, sharp observant eyes and a patchy beard, wearing a dusty brown robe and a faded green turban bowing deeply before a heavy-set Arab prince in his late 50s, oiled thick black beard with grey streaks, cold pale grey eyes, a cruel thin smile, wearing a black silk robe heavily embroidered with gold thread, a white turban with a large ruby and gold ornament, many thick gold rings on every finger on his throne inside a grand palace on a hill above the oasis, golden domes, white marble columns, an indoor fountain overflowing with clear water, gold everywhere, silk curtains, in sharp contrast to the dying oasis below. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```

@@ -93,7 +93,7 @@ NEGATIVE: film border, film strip edges, frame numbers, vignette, bokeh circles,
 ## 🧔 التاجر قِرواش – QIRWASH
 
 ```
-[QIRWASH] a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table
+[QIRWASH] a thin Arab market merchant in his 40s with a narrow face, sharp observant eyes and a patchy beard, wearing a dusty brown robe and a faded green turban
 ```
 
 ---
