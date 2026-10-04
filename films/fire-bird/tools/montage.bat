@@ -1,5 +1,6 @@
 @echo off
 chcp 65001 >nul
+set PYTHONIOENCODING=utf-8
 title The Fire Bird - cinematic edit
 
 where ffmpeg >nul 2>nul
