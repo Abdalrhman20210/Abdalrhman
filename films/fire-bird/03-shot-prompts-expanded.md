@@ -423,11 +423,11 @@ she steps quickly in front of the bird, arms slightly spread
 **07-05** · 6s · لقطة قريبة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand kneeling to eye level with a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves, serious face, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves raising her little finger to make a promise. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+outside a Bedouin tent in the desert at sunset, a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand crouching down beside a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves, talking to her warmly like a caring aunt, a gentle family moment. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-the girl lifts her pinky finger, the woman softens and hooks her pinky with hers
+the girl smiles and holds up her little finger for a pinky promise, the woman smiles back tenderly and links her little finger with the girl's, a sweet innocent promise between friends
 ```
 
 **07-06** · 5s · لقطة قريبة

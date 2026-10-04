@@ -194,8 +194,8 @@
 - MOTION: she steps quickly in front of the bird, arms slightly spread
 
 **07-05** · 6s · لقطة قريبة
-- IMAGE: [HALIMA] kneeling to eye level with [SALMA], serious face, [SALMA] raising her little finger to make a promise
-- MOTION: [SALMA] lifts her pinky finger, [HALIMA] softens and hooks her pinky with hers
+- IMAGE: outside a Bedouin tent in the desert at sunset, [HALIMA] crouching down beside [SALMA], talking to her warmly like a caring aunt, a gentle family moment
+- MOTION: the girl smiles and holds up her little finger for a pinky promise, the woman smiles back tenderly and links her little finger with the girl's, a sweet innocent promise between friends
 
 **07-06** · 5s · لقطة قريبة
 - IMAGE: [JAMR-YOUNG] resting its head under the small hand of [SALMA], she smiles warmly
