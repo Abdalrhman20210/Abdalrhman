@@ -393,27 +393,27 @@ the bird hops and snaps playfully at the butterfly, sparks flying from its tail
 **07-02** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist peeking from behind a sand dune, only her eyes and wild curly hair visible. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves looking out from behind a sand dune in the afternoon sun, only her eyes and curly hair visible above the crest of the dune. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-her eyes widen in shock, she slowly rises a little
+her eyes widen with wonder and amazement, she slowly lifts her head a little higher to see better
 ```
 
 **07-03** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist and a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression staring at each other a few meters apart on the sand, both frozen. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves, standing on the sand in the afternoon sun, and a few meters away a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression, the two looking at each other with curiosity, both completely still. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-the bird tilts its head, then sneezes a small burst of sparks, the girl covers her mouth and giggles
+the bird tilts its head, then sneezes a small puff of harmless sparks, the girl covers her mouth and giggles happily
 ```
 
 **07-04** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand rushing out of a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest and standing protectively between a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist and a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand rushing out of a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest and standing protectively between a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves and a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -423,7 +423,7 @@ she steps quickly in front of the bird, arms slightly spread
 **07-05** · 6s · لقطة قريبة
 - IMAGE:
 ```
-a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand kneeling to eye level with a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist, serious face, a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist raising her little finger to make a promise. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand kneeling to eye level with a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves, serious face, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves raising her little finger to make a promise. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -433,7 +433,7 @@ the girl lifts her pinky finger, the woman softens and hooks her pinky with hers
 **07-06** · 5s · لقطة قريبة
 - IMAGE:
 ```
-a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression resting its head under the small hand of a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist, she smiles with a gap-toothed grin. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young phoenix the size of a falcon, crimson and gold feathers, feather tips flickering with small living flames, large amber eyes, a flame crest on its head, long tail feathers trailing sparks, curious and playful expression resting its head under the small hand of a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves, she smiles warmly. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -521,7 +521,7 @@ a ring of gold spreads outward from the feather across the sand, glittering in s
 **09-03** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist gasping with both hands on her cheeks, staring down, golden light reflecting on her face. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves gasping with both hands on her cheeks, staring down, golden light reflecting on her face. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -531,7 +531,7 @@ she gasps and slowly kneels down
 **09-04** · 5s · لقطة واسعة
 - IMAGE:
 ```
-a busy dusty market in a dying desert oasis, a few drooping dried palm trees, a round stone well that is completely dry, cracked parched earth, small mud-brick houses with flat roofs, dusty air, villagers carrying empty clay jars, stalls with spices and fabrics, a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist running through the crowd clutching something. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a busy dusty market in a dying desert oasis, a few drooping dried palm trees, a round stone well that is completely dry, cracked parched earth, small mud-brick houses with flat roofs, dusty air, villagers carrying empty clay jars, stalls with spices and fabrics, a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves running through the crowd clutching something. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -541,7 +541,7 @@ tracking shot following her as she weaves between people
 **09-05** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist placing a small nugget of gold on the wooden table of a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table, pointing at a cloth bag of medicine. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves placing a small nugget of gold on the wooden table of a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table, pointing at a cloth bag of medicine. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -561,7 +561,7 @@ he bites the gold, inspects it against the light, a slow sly smile spreads acros
 **09-07** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table standing at his stall watching a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist run away, then turning to look up at the golden palace on the hill. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a thin wiry Arab merchant in his 40s, hooked crooked nose, narrow sly eyes, patchy beard, wearing a dusty brown robe and a faded green turban, a scale and coins on his table standing at his stall watching a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves run away, then turning to look up at the golden palace on the hill. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -629,7 +629,7 @@ torches moving closer in a menacing line
 **11-02** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist running breathless into a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest at night, crying, her face lit by the lamp. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves running breathless into a small worn Bedouin tent of black goat-hair fabric on the edge of the dunes, a few clay pots, a woven red rug, a small fire pit with stones, an oil lamp, a small wooden chest at night, crying, her face lit by the lamp. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -743,7 +743,7 @@ the fiery tear rolls down and falls, sizzling into the rock below and leaving a 
 **12-05** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist crying in the crowd of villagers in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves crying in the crowd of villagers in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -915,7 +915,7 @@ very slow push in, total stillness, smoke drifting
 **15-02** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist kneeling beside a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand and holding her hand. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves kneeling beside a 40-year-old Arab Bedouin woman, sun-weathered olive skin, thin face with high cheekbones, deep-set dark brown eyes lined with kohl, three small faded blue tattoo dots on her chin, a few grey strands in her black hair, wearing a faded indigo-black long Bedouin dress with red geometric embroidery on the chest and sleeves, a dark maroon head scarf loosely wrapped, a simple silver ring on her left hand and holding her hand. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -1019,7 +1019,7 @@ slow drone flyover of green palms and flowing water
 **16-02** · 5s · لقطة متوسطة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist now a 12-year-old, sitting beside a small stone grave covered in flowers at the edge of a lush green desert oasis, tall healthy palm trees, flowing water channels, a full stone well, flowers growing, children playing, mud-brick houses glistening after rain. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves now a little older, sitting beside a small stone grave covered in flowers at the edge of a lush green desert oasis, tall healthy palm trees, flowing water channels, a full stone well, flowers growing, children playing, mud-brick houses glistening after rain. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
@@ -1039,7 +1039,7 @@ the woman waves goodbye, the phoenix spreads its wings
 **16-04** · 5s · لقطة قريبة
 - IMAGE:
 ```
-a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist now a 12-year-old, waving with tears and a smile at sunrise. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves now a little older, waving with tears and a smile at sunrise. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```

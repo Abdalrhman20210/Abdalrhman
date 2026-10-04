@@ -73,10 +73,12 @@ NEGATIVE: film border, film strip edges, frame numbers, vignette, bokeh circles,
 ## 👧 سلمى – SALMA
 
 ```
-[SALMA] a 10-year-old Arab girl, thin, big curious green eyes, wild curly black hair tied loosely with a red ribbon, a small gap between her front teeth, wearing a patched sand-colored cotton dress, barefoot, a thin leather bracelet on her right wrist
+[SALMA] a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves
 ```
 
-**المشهد 16 (أكبر بسنتين):** غيّر العمر إلى `12-year-old` وأبقِ كل الباقي.
+**المشهد 16 (أكبر بسنتين):** البرومبتات فيها `now a little older`.
+
+> لا تكتب عمراً محدداً أو وصفاً للجسم مع سلمى، لأن فلاتر Google Flow ترفض البرومبت. الصورة المرجعية المرفقة تحافظ على شكلها.
 
 ---
 

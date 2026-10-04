@@ -182,12 +182,12 @@
 - MOTION: the bird hops and snaps playfully at the butterfly, sparks flying from its tail
 
 **07-02** · 4s · لقطة قريبة
-- IMAGE: [SALMA] peeking from behind a sand dune, only her eyes and wild curly hair visible
-- MOTION: her eyes widen in shock, she slowly rises a little
+- IMAGE: [SALMA] looking out from behind a sand dune in the afternoon sun, only her eyes and curly hair visible above the crest of the dune
+- MOTION: her eyes widen with wonder and amazement, she slowly lifts her head a little higher to see better
 
 **07-03** · 5s · لقطة متوسطة
-- IMAGE: [SALMA] and [JAMR-YOUNG] staring at each other a few meters apart on the sand, both frozen
-- MOTION: the bird tilts its head, then sneezes a small burst of sparks, [SALMA] covers her mouth and giggles
+- IMAGE: [SALMA], standing on the sand in the afternoon sun, and a few meters away [JAMR-YOUNG], the two looking at each other with curiosity, both completely still
+- MOTION: the bird tilts its head, then sneezes a small puff of harmless sparks, the girl covers her mouth and giggles happily
 
 **07-04** · 5s · لقطة متوسطة
 - IMAGE: [HALIMA] rushing out of [TENT] and standing protectively between [SALMA] and [JAMR-YOUNG]
@@ -198,7 +198,7 @@
 - MOTION: [SALMA] lifts her pinky finger, [HALIMA] softens and hooks her pinky with hers
 
 **07-06** · 5s · لقطة قريبة
-- IMAGE: [JAMR-YOUNG] resting its head under the small hand of [SALMA], she smiles with a gap-toothed grin
+- IMAGE: [JAMR-YOUNG] resting its head under the small hand of [SALMA], she smiles warmly
 - MOTION: the bird nuzzles into her hand, she laughs in wonder
 
 ---
@@ -454,7 +454,7 @@
 - MOTION: slow drone flyover of green palms and flowing water
 
 **16-02** · 5s · لقطة متوسطة
-- IMAGE: [SALMA] now a 12-year-old, sitting beside a small stone grave covered in flowers at the edge of [OASIS-GREEN]
+- IMAGE: [SALMA] now a little older, sitting beside a small stone grave covered in flowers at the edge of [OASIS-GREEN]
 - MOTION: she places a flower on the grave, a gentle breeze
 
 **16-03** · 6s · لقطة واسعة
@@ -462,7 +462,7 @@
 - MOTION: [HALIMA] waves goodbye, the phoenix spreads its wings
 
 **16-04** · 5s · لقطة قريبة
-- IMAGE: [SALMA] now a 12-year-old, waving with tears and a smile at sunrise
+- IMAGE: [SALMA] now a little older, waving with tears and a smile at sunrise
 - MOTION: she waves, tears rolling, smiling
 
 **16-05** · 8s · لقطة واسعة جداً
