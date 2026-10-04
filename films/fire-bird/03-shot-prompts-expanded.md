@@ -743,11 +743,11 @@ the fiery tear rolls down and falls, sizzling into the rock below and leaving a 
 **12-05** · 4s · لقطة قريبة
 - IMAGE:
 ```
-a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves standing among the villagers in the central dirt square of the oasis surrounded by mud-brick houses, a tall wooden pole in the middle, the palace balcony visible above, villagers gathered around at dawn with teary eyes and a sad expression. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
+medium close-up of a young Bedouin village girl with big curious green eyes and wild curly black hair tied loosely with a red ribbon, wearing a long modest patched sand-colored cotton dress with long sleeves standing with her family among calm villagers in a mud-brick oasis village at soft golden dawn, a worried and hopeful expression on her face, looking up toward the sky. photorealistic cinematic film still, epic Arabian desert fantasy, warm golden and ember color palette, deep teal shadows, volumetric light, soft haze, natural realistic lighting, clean digital cinema image, full frame with no borders, shot on ARRI Alexa, 16:9
 ```
 - MOTION:
 ```
-a single tear rolls down her cheek, she holds her hands together close to her chest
+she clasps her hands together near her chest as if making a quiet wish, her eyes glisten with emotion, a gentle breeze moves her curly hair
 ```
 
 ---

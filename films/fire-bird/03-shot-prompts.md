@@ -334,8 +334,8 @@
 - MOTION: the fiery tear rolls down and falls, sizzling into the rock below and leaving a small burned hole
 
 **12-05** · 4s · لقطة قريبة
-- IMAGE: [SALMA] standing among the villagers in [SQUARE] at dawn with teary eyes and a sad expression
-- MOTION: a single tear rolls down her cheek, she holds her hands together close to her chest
+- IMAGE: medium close-up of [SALMA] standing with her family among calm villagers in a mud-brick oasis village at soft golden dawn, a worried and hopeful expression on her face, looking up toward the sky
+- MOTION: she clasps her hands together near her chest as if making a quiet wish, her eyes glisten with emotion, a gentle breeze moves her curly hair
 
 ---
 
