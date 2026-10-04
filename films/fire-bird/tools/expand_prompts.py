@@ -14,6 +14,13 @@ SHOTS = ROOT / "03-shot-prompts.md"
 OUT = ROOT / "03-shot-prompts-expanded.md"
 VEO_OUT = ROOT / "04-veo-prompts.md"
 
+# Names of the characters as saved in Google Flow's character library.
+FLOW_CHARACTERS = {
+    "HALIMA": "حليمة", "JAMR-CHICK": "جمر فرخ", "JAMR-YOUNG": "جمر صغير",
+    "JAMR-TEEN": "جمر شاب", "JAMR-REBORN": "جمر منبعث", "SALMA": "سلمى",
+    "MUHALLAB": "مهلّب", "QIRWASH": "قرواش",
+}
+
 VEO_AUDIO = (
     "Audio: natural ambient sound effects only, no dialogue, no speech, "
     "no music, no subtitles, no on-screen text, no film borders."
@@ -57,6 +64,7 @@ def main():
         "",
         "> مولَّد تلقائياً بواسطة `tools/expand_prompts.py`. انسخ البرومبت كاملاً والصقه في Veo.",
         "> كل لقطة تخرج 8 ثوانٍ. الصوت فيها مؤثرات فقط، والحوار والتعليق الصوتي تضيفهما في المونتاج.",
+        "> 👤 بجانب كل لقطة أسماء الشخصيات التي ترفقها من مكتبة الشخصيات في Flow قبل الإرسال.",
         "",
     ]
     veo_style = style.replace("film still, ", "").replace(", 16:9", "")
@@ -75,6 +83,7 @@ def main():
             seconds += int(m.group(2))
         if line.startswith("- IMAGE:"):
             body = line[len("- IMAGE:"):].strip()
+            cast = [v for k, v in FLOW_CHARACTERS.items() if f"[{k}]" in body]
             for name, desc in tokens.items():
                 body = body.replace(f"[{name}]", desc)
             missing = re.findall(r"\[[A-Z\-]+\]", body)
@@ -90,7 +99,7 @@ def main():
             body = line[len("- MOTION:"):].strip()
             for name in tokens:
                 body = body.replace(f"[{name}]", MOTION_NAMES.get(name.split("-")[0], "it"))
-            veo.append(f"**{shot_id}**")
+            veo.append(f"**{shot_id}** · 👤 أرفق: {'، '.join(cast) if cast else 'لا شيء'}")
             veo.append("```")
             veo.append(f"{image_body}. {body}. Style: {veo_style}. {VEO_AUDIO}")
             veo.append("```")
