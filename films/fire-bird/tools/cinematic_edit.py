@@ -59,11 +59,24 @@ FONT_CANDIDATES = [
 ]
 
 
-def run(cmd):
+LOG = None
+
+
+def fail(message):
+    if LOG:
+        try:
+            LOG.write_text(message, encoding="utf-8")
+            message += f"\n\nThis message was also saved to {LOG}"
+        except OSError:
+            pass
+    sys.exit(message)
+
+
+def run(cmd, cwd=None):
     p = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True,
-                       encoding="utf-8", errors="replace")
+                       encoding="utf-8", errors="replace", cwd=cwd)
     if p.returncode != 0:
-        sys.exit("ffmpeg failed:\n" + " ".join(map(str, cmd)) + "\n" + p.stderr[-3000:])
+        fail("ffmpeg failed:\n" + " ".join(map(str, cmd)) + "\n" + p.stderr[-3000:])
     return p.stdout
 
 
@@ -137,11 +150,6 @@ def find_font(user_font):
     return None
 
 
-def ff_path(p):
-    # Escape a path for use inside an ffmpeg filter argument.
-    return str(p).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
-
-
 def prepare(clips, work, trim_head, trim_tail):
     prepared = []
     for i, src in enumerate(clips, 1):
@@ -168,7 +176,12 @@ def prepare(clips, work, trim_head, trim_tail):
 
 def title_card(work, font, seconds=6.0):
     dst = work / "title.mp4"
-    opts = [f"fontfile='{ff_path(font)}'"] if font else []
+    opts = []
+    if font:
+        # Copy the font next to the work files so the filter never sees a
+        # Windows drive letter (its colon breaks ffmpeg's option parsing).
+        shutil.copyfile(font, work / "title_font.ttf")
+        opts.append("fontfile=title_font.ttf")
     opts += [
         "text=" + TITLE, "fontsize=130", "fontcolor=0xF2C27B",
         "x=(w-text_w)/2", "y=(h-text_h)/2",
@@ -180,31 +193,68 @@ def title_card(work, font, seconds=6.0):
          "-f", "lavfi", "-i", f"color=c=black:s={W}x{H}:r={FPS}:d={seconds}",
          "-f", "lavfi", "-t", f"{seconds}", "-i", "anullsrc=r=48000:cl=stereo",
          "-vf", vf, "-c:v", "libx264", "-crf", "16", "-c:a", "aac", "-b:a", "192k",
-         "-shortest", str(dst)])
+         "-shortest", dst.name], cwd=work)
     return dst
 
 
-def assemble(parts, scenes, music, out):
-    durs = [duration(p) for p in parts]
-    cmd = ["ffmpeg", "-y", "-v", "error", "-stats"]
-    for p in parts:
-        cmd += ["-i", str(p)]
+def chain(durs, kinds):
+    """Filters that join inputs 0..n-1 with xfade/acrossfade. Returns (filters, v, a, total)."""
     filters = []
     v, a, t = "[0:v]", "[0:a]", durs[0]
-    for i in range(1, len(parts)):
-        changing = scenes[i] is None or scenes[i] != scenes[i - 1]
-        kind, d = ("fadeblack", DIP) if changing else ("fade", DISSOLVE)
+    for i in range(1, len(durs)):
+        kind, d = kinds[i - 1]
         d = min(d, durs[i - 1] / 2, durs[i] / 2)
         t -= d
         filters.append(f"{v}[{i}:v]xfade=transition={kind}:duration={d:.3f}:offset={t:.3f}[v{i}]")
         filters.append(f"{a}[{i}:a]acrossfade=d={d:.3f}[a{i}]")
         v, a = f"[v{i}]", f"[a{i}]"
         t += durs[i]
-    total = t
+    return filters, v, a, t
+
+
+def join_group(work, parts, name):
+    """Join one scene's shots with soft dissolves into an intermediate file."""
+    dst = work / name
+    if len(parts) == 1:
+        return parts[0]
+    durs = [duration(p) for p in parts]
+    filters, v, a, _ = chain(durs, [("fade", DISSOLVE)] * (len(parts) - 1))
+    cmd = ["ffmpeg", "-y", "-v", "error"]
+    for p in parts:
+        cmd += ["-i", p.name]
+    cmd += ["-filter_complex", ";".join(filters), "-map", v, "-map", a,
+            "-c:v", "libx264", "-preset", "medium", "-crf", "16", "-pix_fmt", "yuv420p",
+            "-c:a", "aac", "-b:a", "192k", dst.name]
+    run(cmd, cwd=work)
+    return dst
+
+
+def assemble(work, parts, scenes, music, out):
+    # Group consecutive shots of the same scene (at most 12 per group, which
+    # keeps memory low on a laptop), join each group, then join the groups.
+    groups, keys = [], []
+    for part, scene in zip(parts, scenes):
+        if groups and keys[-1] == scene and len(groups[-1]) < 12:
+            groups[-1].append(part)
+        else:
+            groups.append([part])
+            keys.append(scene)
+    joined = []
+    for g, group in enumerate(groups, 1):
+        print(f"Joining scene part {g}/{len(groups)} ({len(group)} shots)")
+        joined.append(join_group(work, group, f"group_{g:03d}.mp4"))
+
+    durs = [duration(p) for p in joined]
+    kinds = [("fade", DISSOLVE) if keys[i] == keys[i - 1] else ("fadeblack", DIP)
+             for i in range(1, len(joined))]
+    filters, v, a, total = chain(durs, kinds) if len(joined) > 1 else ([], "[0:v]", "[0:a]", durs[0])
     filters.append(f"{v}fade=t=in:st=0:d=1.5,fade=t=out:st={total - 2:.3f}:d=2[vout]")
+    cmd = ["ffmpeg", "-y", "-v", "error", "-stats"]
+    for p in joined:
+        cmd += ["-i", p.name]
     if music:
         cmd += ["-stream_loop", "-1", "-i", str(music)]
-        m = len(parts)
+        m = len(joined)
         filters.append(f"[{m}:a]atrim=0:{total:.3f},volume=0.35,"
                        f"afade=t=in:st=0:d=3,afade=t=out:st={total - 4:.3f}:d=4[mus]")
         filters.append(f"{a}[mus]amix=inputs=2:duration=first:normalize=0[mix]")
@@ -214,10 +264,10 @@ def assemble(parts, scenes, music, out):
     cmd += ["-filter_complex", ";".join(filters), "-map", "[vout]", "-map", "[aout]",
             "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(out)]
-    print(f"Assembling {len(parts)} parts, about {total / 60:.1f} minutes...")
-    p = subprocess.run(cmd)
+    print(f"Assembling the film, about {total / 60:.1f} minutes...")
+    p = subprocess.run(cmd, cwd=work)
     if p.returncode != 0:
-        sys.exit("ffmpeg failed while assembling the film.")
+        fail("ffmpeg failed while assembling the film.")
     return total
 
 
@@ -233,12 +283,15 @@ def main():
 
     for tool in ("ffmpeg", "ffprobe"):
         if not shutil.which(tool):
-            sys.exit(f"{tool} was not found. On Windows run:  winget install Gyan.FFmpeg  then open a new terminal.")
+            fail(f"{tool} was not found. On Windows run:  winget install Gyan.FFmpeg  then open a new terminal.")
 
     folder = Path(args.folder).expanduser().resolve()
+    global LOG
+    (folder / "output").mkdir(exist_ok=True)
+    LOG = folder / "output" / "error_log.txt"
     clips = [p for p in folder.iterdir() if p.suffix.lower() in VIDEO_EXT and p.is_file()]
     if not clips:
-        sys.exit(f"No video files in {folder}")
+        fail(f"No video files in {folder}")
     clips = load_order(folder, clips)
 
     work = folder / "output" / "_work"
@@ -259,10 +312,18 @@ def main():
         print(f"Music bed: {music.name}")
 
     out = folder / "output" / "طائر_النار_مونتاج.mp4"
-    total = assemble(parts, scenes, music, out)
+    total = assemble(work, parts, scenes, music, out)
     print(f"\nDone: {out}\nLength: {int(total // 60)}:{int(total % 60):02d}")
     print("Graded clips are cached in output/_work; delete that folder to regrade everything.")
+    if hasattr(os, "startfile"):
+        os.startfile(out.parent)
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as e:  # keep the window readable instead of a bare traceback
+        import traceback
+        fail("Unexpected error:\n" + traceback.format_exc())
